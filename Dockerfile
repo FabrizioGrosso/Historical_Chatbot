@@ -5,7 +5,6 @@ USER root
 
 ## -- ADD YOUR CODE HERE !! -- ##
 
-## commento di prova
 
 ## --------------------------- ##
 
